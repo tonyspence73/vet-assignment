@@ -4,7 +4,7 @@ In your JavaScript, you will be using ES6's "class" constructor function to make
 
 
 
-* Review Example Images while going through the requirements. 
+
 
 REQUIREMENTS
 
